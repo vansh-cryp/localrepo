@@ -1,0 +1,19 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 3605eb9..32bcfdc 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,2 @@[m
+[31m-<p>this is a new Repo</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>this is a new Repo</p>[m
+[32m+[m[32m<p>This is a new Feature</p>[m
+\ No newline at end of file[m
+[1mdiff --git a/style.css b/style.css[m
+[1mindex a4e6e19..e69de29 100644[m
+[1m--- a/style.css[m
+[1m+++ b/style.css[m
+[36m@@ -1,3 +0,0 @@[m
+[31m-p{[m
+[31m-    color: red;[m
+[31m-}[m
+\ No newline at end of file[m
